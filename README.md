@@ -14,7 +14,7 @@ We have created a Spotify recommendation system using the Spotify Dataset. To do
 ![spotify dataset](https://user-images.githubusercontent.com/57714214/166212861-20c8d105-9601-44c1-a1df-bcbd9a327daf.png) 
 
 
-The steps includes the following:
+The steps include the following:
 1. Import Libraries
 2. Read Data
 3. Data Understanding by Visualization and EDA
